@@ -5,3 +5,5 @@ This is the pinteresting sample code for my project on [*One Month Rails*](http:
 by [*Mick Byrne*](http://www.keebabfund.com) 
 
 Cheers!
+
+Seems to be working ok....so far
