@@ -25,6 +25,10 @@ group :production do
      gem 'rails_12factor'
 end
 
+group :development, :test do
+gem 'foreman'
+end
+
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
